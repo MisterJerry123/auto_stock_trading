@@ -1,1 +1,2 @@
-# auto_stock_trading
+여름방학 때 해볼 프로젝트
+* 주식 자동매매 api 개발
